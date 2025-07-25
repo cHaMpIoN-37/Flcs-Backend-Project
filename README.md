@@ -18,5 +18,8 @@ STEP 5. start the mongodb server by running "sudo systemctl start mongod"
 STEP 6. start the backend server locally by running "npm start" 
 
 
+STEP 7. to see the actual work, go to the frontend folder and click on the signup.html file to signup using a name,mail, and password, also select your role here. then go to the signin.html file to signin using your email and password.
+
+
 
 *NOTE :- The commands mentioned above may vary for each Operating System. (These are the commands for a Ubuntu-Linux based OS)
